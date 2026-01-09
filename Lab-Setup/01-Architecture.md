@@ -8,9 +8,9 @@ This lab simulates a basic enterprise environment with an attacker VM, victim en
 
 | Component | Role | OS/Software | IP Address |
 |-----------|------|-------------|------------|
-| Host Machine | Splunk SIEM | Windows 11 | 192.168.1.100 |
-| Windows VM | Victim Endpoint | Windows 11 | 192.168.1.101 |
-| Kali VM | Attacker (optional) | Kali Linux | 192.168.1.102 |
+| Host Machine | Splunk SIEM | Windows 11 | 192.168.31.50 |
+| Windows VM | Victim Endpoint | Windows 11 | 192.168.31.52 |
+| Kali VM | Attacker (optional) | Kali Linux | DHCP |
 
 ## Network Topology
 ```
@@ -26,7 +26,7 @@ This lab simulates a basic enterprise environment with an attacker VM, victim en
 1. Windows VM generates logs (Event Viewer + Sysmon)
 2. Splunk Universal Forwarder collects logs
 3. Logs sent to Splunk on host via port 9997
-4. Analyst queries logs in Splunk Web
+4. Analyst (ME) queries logs in Splunk Web Interface
 
 ---
 
