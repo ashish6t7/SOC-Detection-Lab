@@ -53,10 +53,10 @@ index=windows EventCode=4625 LogonType=3
    - Investigate source IP (internal vs external)
 
 2. **Long-term:**
-   - Implement account lockout policy
+   - Implement account lockout policy after multiple failed login attempts
    - Enable Multi-Factor Authentication (MFA)
    - Use VPN for RDP access
-   - Monitor for Event ID 4624 (successful login) after multiple 4625s
+   - Monitor for Event ID 4624 (successful login) after multiple 4625 Event IDs
 
 ---
 
