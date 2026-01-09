@@ -2,12 +2,12 @@
 
 ## Splunk Configuration (on Host)
 
-### Enable Receiving Port (in Splunkweb)
+### Enable Receiving Port (in Splunk web)
 1. Settings → Forwarding and receiving → Configure receiving
 2. New Receiving Port: `9997`
 3. Save
 
-### Create Index (in splunk web)
+### Create Index (in Splunk web)
 1. Settings → Indexes → New Index
 2. Index Name: `windows`
 3. Save
