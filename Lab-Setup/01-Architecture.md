@@ -14,16 +14,16 @@ This lab simulates a basic enterprise environment with an attacker VM, victim en
 
 ## Network Topology
 ```
-[Kali VM] ←→ [Bridged Network] ←→ [Windows VM]
-                                        ↓
-                                  (Logs forwarded)
-                                        ↓
-                                  [Host Splunk]
+[Kali VM] ←→ [Bridged Network (Virtual Switch)] ←→ [Windows VM]
+                                                        ↓
+                                                   (Logs forwarded)
+                                                        ↓
+                                                   [Host Splunk]
 ```
 
 ## Data Flow
 
-1. Windows VM generates logs (Event Viewer + Sysmon)
+1. Windows VM generates logs (Windows Event Logs + Sysmon)
 2. Splunk Universal Forwarder collects logs
 3. Logs sent to Splunk on host via port 9997
 4. Analyst (ME) queries logs in Splunk Web Interface
