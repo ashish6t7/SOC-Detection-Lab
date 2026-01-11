@@ -26,7 +26,7 @@ This project demonstrates:
 
 - **Persistent Troubleshooting** 
 - **SIEM Configurations:** inbound rules, outbound rules, receiving port, uniersal forwarder, etc. 
-- **Documentation:** Technical writing and Mapping
+- **practical Documentation:** Technical writing and Mapping
 
 ---
 
@@ -38,8 +38,8 @@ Browse the [Configuration and Troubleshooting](Lab-Setup/03-Configuration.md)
 
 ## Contact
 
-[www.linkedin.com/in/ashish6t7]
-[ashishkumar173362@gmail.com]
+1. LinkedIn - www.linkedin.com/in/ashish6t7
+2. Email - ashishkumar173362@gmail.com
 
 ---
 
