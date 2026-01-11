@@ -75,7 +75,7 @@ net start SplunkForwarder
   
 ![image alt](https://github.com/ashish6t7/Enterprise-SOC-Lab/blob/b6a7c9e27da035783e594b77a43eb657eaad1d8b/Lab-Setup/Setup-Images/03-splunk%20outbound%20rule%20-%20port%209997%20(Windows%2011%20VM).png)
 
-## Troubleshooting
+## 4. Troubleshooting
 
 ### - Issue: Sysmon Logs Not Appearing, but Event Logs were...
 
