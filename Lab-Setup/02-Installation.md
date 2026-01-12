@@ -23,6 +23,10 @@
 3. Network Adapter: **Bridged Adapter**
 4. Install Windows 11 from ISO
 
+![RAM allocation to Windows 11 VM](https://github.com/ashish6t7/Enterprise-SOC-Lab/blob/0a95f1c5c81dd9421ed1e2af9b4b01aa23738d18/Lab-Setup/Setup-Images/Windows%2011%20VM%20RAM.png)
+
+![Bridged adaptor windows 11](https://github.com/ashish6t7/Enterprise-SOC-Lab/blob/f49a22ef1fbaf393c9ad89a6d563b09bd2c5eb95/Lab-Setup/Setup-Images/Windows11-bridged-networking.png)
+
 **Set Static IP:**
 - Open Network Settings → Change adapter options
 - IPv4 Properties → Manual IP: `192.168.31.52`
@@ -34,6 +38,10 @@
 2. Allocate **2.5 GB RAM**, **2 CPU cores**
 3. Network Adapter: **Bridged Adapter**
 4. Install Kali Linux from ISO
+
+![RAM allocation to Kali VM](https://github.com/ashish6t7/Enterprise-SOC-Lab/blob/0a95f1c5c81dd9421ed1e2af9b4b01aa23738d18/Lab-Setup/Setup-Images/Kali%20VM%20RAM%20.png)
+
+![Bridged adaptor kali ](https://github.com/ashish6t7/Enterprise-SOC-Lab/blob/0a95f1c5c81dd9421ed1e2af9b4b01aa23738d18/Lab-Setup/Setup-Images/bridged-networking.png)
 
 **IP Configuration:**
 - Use DHCP (automatic)
