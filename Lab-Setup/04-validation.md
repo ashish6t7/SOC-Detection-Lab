@@ -58,3 +58,5 @@ Enterprise-SOC-Lab/
     ├── 04-Validation.md         
     └── Setup-Images/
 ```
+
+Next - [What I Learned](../Lab-Setup/What_I_Learned.md)
