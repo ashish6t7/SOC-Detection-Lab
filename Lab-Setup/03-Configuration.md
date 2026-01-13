@@ -159,5 +159,4 @@ This issue took **16 hours** to troubleshoot across multiple attempts. Always ve
 
 ---
 
-**Next:** [Verify log collection in Splunk](../README.md#quick-start) or proceed to threat detection scenarios.
-
+**Next:** [Lab Validation and Final result](../Lab-Setup/04-validation.md)
