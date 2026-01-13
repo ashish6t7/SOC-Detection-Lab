@@ -7,3 +7,7 @@
 6. How to validate **ingestion using SPL queries**  
 7. Why field normalization matters for **SOC analysis**  
 8. **Practical** understanding of SIEM operations (not just theory)
+
+---
+
+Next - [Detailed Readme](../README.md)
