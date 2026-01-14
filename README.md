@@ -38,6 +38,7 @@ Enterprise-SOC-Lab/
 - **[Installation Guide](./Lab-Setup/02-Installation.md)** - VM setup, Splunk installation, Sysmon deployment
 - **[Configuration & Troubleshooting](./Lab-Setup/03-Configuration.md)** - Log forwarding, firewall rules, service permissions, troubleshooting notes
 - **[Final Results and Validation](./Lab-Setup/04-validation.md)** - showing the readiness of the Enterprise-SOC-Lab
+- **[What I Learned with this project](./Lab-Setup/05-What_I_Learned.md)**
   
 ---
 
@@ -65,6 +66,14 @@ Enterprise-SOC-Lab/
 
 **LinkedIn:** [linkedin.com/in/ashish6t7](https://www.linkedin.com/in/ashish6t7)  
 **Email:** ashishkumar173362@gmail.com
+
+---
+
+## Author
+
+- Ashish Kumar
+- CompTIA Security+ Certified  
+- Aspiring SOC Analyst
 
 ---
 
