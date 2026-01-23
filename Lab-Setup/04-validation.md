@@ -59,4 +59,4 @@ Enterprise-SOC-Lab/
     └── Setup-Images/
 ```
 
-Next - [What I Learned](../05-Lab-Setup/05-What_I_Learned.md)
+Next - [What I Learned](../Lab-Setup/05-What_I_Learned.md)
